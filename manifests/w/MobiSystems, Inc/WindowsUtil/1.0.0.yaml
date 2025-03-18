@@ -1,16 +1,5 @@
-PackageIdentifier: "WindowsUtil"
+PackageIdentifier: "MobiSystems.WindowsUtil"
 PackageVersion: "1.0.0"
-DefaultLocale: "en-US"
+DefaultLocale: en-US 
 ManifestType: "version"
 ManifestVersion: "1.4.0"
-Installers:
-  - Architecture: "x64"
-    InstallerType: "msix"
-    InstallerUrl: "https://storage.googleapis.com/ms-apps-bucket-exp/update/WindowsUtil/1.1.0/full/WindowsUtil.Package_1.0.0.0_x64.msix"
-    InstallerSha256: "0E9F40AA2694D51193082CB152BC52EC311986164AEC630B541A5DF9FBF39EAE"  # ← Generate this
-    SignatureSha256: "D2E1C20F4445F5A6DFE1AEA9B8C3615904C16FEE"      # ← Generate this
-AppsAndFeaturesEntries:
-  - DisplayName: "WindowsUtil.Package"
-    Publisher: "MobiSystems, Inc."
-    DisplayVersion: "1.0.0"
-    ProductCode: ""  # Required but empty for MSIX

@@ -1,0 +1,9 @@
+PackageIdentifier: "MobiSystems.WindowsUtil"
+PackageVersion: "1.0.0"
+ManifestType: "defaultLocale"
+ManifestVersion: "1.4.0"
+PackageLocale: "en-US"
+Publisher: "MobiSystems, Inc."
+PackageName: "WindowsUtil"
+ShortDescription: "Utility tool for Windows"
+License: "Proprietary"  # Or use the appropriate license identifier
